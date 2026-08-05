@@ -1,0 +1,16 @@
+# Power BI temporary files
+*.tmp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Power BI backup files
+*.pbix.autosave
+
+# Python cache (if you later add Python scripts)
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
